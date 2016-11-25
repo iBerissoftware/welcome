@@ -1,0 +1,4 @@
+how to declare variable , functions , class 
+what are the effeciant way of writing loop statement 
+how to use if and switch case
+how to use regcursive function 
